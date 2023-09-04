@@ -1,4 +1,4 @@
-# Mon classeur de SI sur GitHub
+# Mon classeur sur GitHub
 
 ## Créer un dépot GitHub
 Créer un compte sur GitHub (Sign up) depuis un navigateur à l'adresse [https://github.com/](https://github.com/){target="_blank"} :
@@ -195,6 +195,3 @@ Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'envir
     - **indexer**, **Commiter** puis **Pousser** vos modifications ;
     - **vérifier** la mis à jour de votre dépôt ;
 
-<figure>
-    <img src="https://www.gitpod.io/images/illustration-large.png" alt="Glisser/Déposer">
-</figure>
