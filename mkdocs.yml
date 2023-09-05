@@ -18,7 +18,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Cahier de texte : index.md
-    - Environnement :
+    - Ressources :
       - GitHub + VSC : github.md
       - Les notebook jupyter : notebook.md
     
