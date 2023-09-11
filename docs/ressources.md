@@ -11,6 +11,7 @@
 ## Autres liens directs
 
 - [![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub") GitHub](https://github.com/)
+- [Draw.io - Diagrams.net](https://www.diagrams.net/){target=_blank}
 - [Ecole Directe](https://www.ecoledirecte.com)
 - [Microsoft 365](https://login.microsoftonline.com/)
 - [EC@M](https://www.ecmorlaix.fr/)
