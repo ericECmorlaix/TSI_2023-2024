@@ -407,7 +407,12 @@
     [:fontawesome-solid-download: Télécharger le notebook : Actions_Mecaniques-Bequille_De_Moto.ipynb](https://ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){ .md-button .md-button--primary }
 
     > **Revoir** [la modélisation des Actions mécaniques sur ECligne](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}...
+    
 
 === "TRAVAIL À FAIRE"
 
     - **Finir** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf){target=_blank} et **transmettre** votre [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/TSI_2023-2024/blob/main/docs/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank} complété par [mail] ;
+
+    - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Actions_Mecaniques-Chargeur_Telescopique.ipynb](https://ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary }
