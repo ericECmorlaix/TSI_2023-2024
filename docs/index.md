@@ -381,7 +381,8 @@
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
 
 ***
-## Les 14 et 15/09 (2h + 1h)
+ -->
+## Le 14/09 (1h)
 
 === "CONTENU DE SÉANCE"
 
@@ -394,7 +395,8 @@
 === "TRAVAIL À FAIRE"
 
     - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
- -->
+    
+***
 
 ## Les 05, 07 et 12/09 (2h + 1h + 2h)
 
