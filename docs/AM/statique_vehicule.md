@@ -22,7 +22,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
 
-<!-- ![](./BAME-vehicule-plat.jpg){.center width=50%} -->
+![](./BAME-vehicule-plat.jpg){.center width=50%}
 
 ??? abstract "Principe fondamental de la statique"
 
