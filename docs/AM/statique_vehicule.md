@@ -37,7 +37,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Résolution
 
-<!-- ![](./Resolution-vehicule-plat.jpg){.center width=90%} -->
+![](./Resolution-vehicule-plat.jpg){.center width=90%}
 
 ??? example "Application"
 

@@ -371,13 +371,13 @@
  -->
 
 ***
-## Le 19/09 (2h)
+## Les 19 et 21/09 (2h)
 
 === "CONTENU DE SÉANCE"
 
     - Retour sur le T.A.F. ;
     
-    - Point de synthèse sur l'étude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;  ;
+    - Point de synthèse sur l'étude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
 
     
 === "TRAVAIL À FAIRE"
