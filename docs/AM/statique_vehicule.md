@@ -57,7 +57,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     ...
 
 
-<!-- ### Sur un sol en pente 
+### Sur un sol en pente 
 
 #### Modèle d'étude
 
@@ -68,7 +68,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
-![](BAME-vehicule-pente.jpg){.center width=60%}
+<!-- ![](BAME-vehicule-pente.jpg){.center width=60%} -->
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -83,7 +83,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     #### Modèle d'une caisse
 
-    ![](./Frottement.jpg){.center width=60%}
+    <!-- ![](./Frottement.jpg){.center width=60%} -->
 
     !!! note "Le coefficient de frottement :"
 
@@ -104,7 +104,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
 ##### Résolution
 
-![](./Resolution-vehicule-pente.jpg){.center width=90%}
+<!-- ![](./Resolution-vehicule-pente.jpg){.center width=90%} -->
 
 ??? example "Application"
 

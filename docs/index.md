@@ -371,6 +371,20 @@
  -->
 
 ***
+## Les 26 et 28/09 (2h)
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur le T.A.F. ;
+    
+    - Etude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule sur une pente et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
+
+***
 ## Les 19 et 21/09 (2h)
 
 === "CONTENU DE SÉANCE"
