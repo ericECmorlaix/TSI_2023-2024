@@ -63,7 +63,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-![](Schema-vehicule-pente.jpg){.center width=60%}
+<!-- ![](Schema-vehicule-pente.jpg){.center width=60%} -->
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
