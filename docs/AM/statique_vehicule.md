@@ -116,4 +116,4 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.png){.center width=50%}
     
-    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%} -->
+    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%}
