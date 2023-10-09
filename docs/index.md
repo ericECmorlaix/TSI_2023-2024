@@ -369,15 +369,30 @@
 
 
  -->
+***
+## Les 10 et 12/10
+
+=== "CONTENU DE SÉANCE"
+
+    - **Faire** le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
+    
+    - **Finaliser** les travaux de projet pour la fête de la science ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** en DM le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
+    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
 
 ***
-## Les 26 et 28/09 (2h)
+## Du 26/09 au 28/09 (2h)
 
 === "CONTENU DE SÉANCE"
 
     - Retour sur le T.A.F. ;
     
-    - Etude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule sur une pente et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
+    - Etude des actions mécaniques : [Modélisation de l'équilibre d'un véhicule sur une pente avec frottement et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
+
+    - Travaux de projet pour la fête de la science ;
 
     
 === "TRAVAIL À FAIRE"
