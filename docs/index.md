@@ -435,7 +435,7 @@
 
 === "CONTENU DE SÉANCE"
 
-    - **Organiser** [un classeur numérique pour la SI sur GitHub](./github) -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
+    - **Organiser** [un classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**Reprendre** en main l'environnement web de Visual Studio Code depuis votre iPad et depuis un des PC du labo de SI pour gérer vos fichiers== ;
 
     - **Faire** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf){target=_blank} -> ==**Compléter** le [notebook jupyter](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank}== ;
 
