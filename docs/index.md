@@ -370,13 +370,13 @@
 
  -->
 ***
-## Les 10 et 12/10
+## Les 10, 12, 17 et 19/10
 
 === "CONTENU DE SÉANCE"
 
     - **Faire** le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
     
-    - **Finaliser** les travaux de projet pour la fête de la science ;
+    - **Finaliser** les travaux de projet pour la fête de la science reportée au lundi 13/11 ;
 
 === "TRAVAIL À FAIRE"
 
