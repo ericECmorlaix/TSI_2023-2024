@@ -352,25 +352,25 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-
-
-***
-## Le 29/09 (1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Cours et exercices de synthèse sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et application au [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
-
 
  -->
 ***
-## Les 10, 12, 17, 19/10 et 07/11
+## Le 14/11 (en autonomie)
+
+=== "CONTENU DE SÉANCE"
+
+    - **Revoir** la partie **"Comprendre"** du [TP de découverte du fonctionnement des réseaux informatiques par la pratique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
+
+    - **Lire** le cours puis **faire** les exercices de synthèse sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application au [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CR/TriPostal.pdf){target=_blank} ;
+    - **Finir** en DM le sujet type bac : [Camper_trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
+    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2023-2024/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
+
+***
+## Les 10, 12, 17, 19/10, 07 et 09/11
 
 === "CONTENU DE SÉANCE"
 
