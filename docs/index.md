@@ -355,7 +355,25 @@
 
  -->
 ***
-## Le 14/11 (en autonomie)
+
+## Le 28/11
+
+=== "CONTENU DE SÉANCE"
+
+    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** [l'étude du comportement dynamique d'un solide en translation appliquée au Buggy](./AM/dynamique_translation.md){target=_blank} ;
+
+***
+
+## Le 21/11 (2h)
+
+- Evaluation d'étude du comportement statique avec frottement : Robots MELODY et HOBOT
+
+## Le 14 (en autonomie), 16 et 23/11 (2h + 1h + 1h)
 
 === "CONTENU DE SÉANCE"
 
