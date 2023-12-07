@@ -360,6 +360,19 @@
 
 === "CONTENU DE SÉANCE"
 
+    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ;
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** [l'étude du comportement dynamique d'un solide en rotation appliquée au Treuil](./AM/dynamique_rotation.md){target=_blank} ;
+
+***
+
+## Le 28/11
+
+=== "CONTENU DE SÉANCE"
+
     - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
     
 
