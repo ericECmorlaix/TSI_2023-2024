@@ -171,48 +171,12 @@
     - Certification PIX ;           
     - Poursuivre le TAF en autonomie ;
 
-=== "TRAVAIL À FAIRE" 
-    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
-
-***
-
-## Les 30/11 et 01/12
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction Hobot ;           
-    - Colle orale par équipe sur les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf)
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
-
-
-## Le 28/11
-
-=== "CONTENU DE SÉANCE"
-
-    - Evaluation Hobot (équilibre avec frottement) ;           
-    - Poursuivre le TAF en autonomie ;
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
-
 ## Le 25/11
 
 === "CONTENU DE SÉANCE"
 
     - Colle orale par équipe sur les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf) 
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
+ 
 ***
 ## Les 23 et 24/11
 
@@ -220,147 +184,36 @@
 
     - Correction évaluation de dynamique en translation et en rotation ;  
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
-***
-
 ## Le 18 et 21/11
 
 === "CONTENU DE SÉANCE"
 
     - Evaluation de dynamique en translation et en rotation ;           
     - Poursuivre le TAF en autonomie ;
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir** les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
+ -->
 ***
-## Le 17/11
-
-=== "CONTENU DE SÉANCE"
-
-    - **Correction** [des études du comportement dynamique d'un buggy en translation](./AM/dynamique_translation.md){target=_blank} ;           
-    - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
-
-=== "TRAVAIL À FAIRE"
-
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);
-    - ==**Se préparer** pour une évaluation de dynamique en translation et en rotation pour le 18/11== ;
-    - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-    - **Finir** les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;    
-***
-## Le 16/11
+## Les 12 et 14/12
 
 === "CONTENU DE SÉANCE"
 
     - [Etudes du comportement dynamique d'un solide en rotation et complément énergétique](./AM/dynamique_rotation.md){target=_blank} => ==Correction de l'application au Treuil== ;
            
-    - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+    - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ; 
 
 === "TRAVAIL À FAIRE"
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);
-    - ==**Se préparer** pour une évaluation de dynamique en translation et en rotation pour le 18/11== ;
-    - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-    - **Finir** [les études du comportement dynamique d'un buggy en translation](./AM/dynamique_translation.md){target=_blank} ;
-    - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
     
+    - ==**Se préparer** pour une évaluation de dynamique en translation et en rotation pour le 19/12== ;    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
+    - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
+        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
+        - **conserver** progressivement une trace de vos scripts...
+
 ***
-## Les 09 et 10/11
+## Les 05 et 07/12
 
 === "CONTENU DE SÉANCE"
 
-    - [Etudes du comportement dynamique d'un solide en rotation et complément énergétique](./AM/dynamique_rotation.md){target=_blank} ;
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-    - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-    - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf)...
-***
-## Les 19/10
-
-=== "CONTENU DE SÉANCE"
-
-    - [Etudes du comportement dynamique d'un solide en translation](./AM/dynamique_translation.md){target=_blank} ;
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-    - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-    - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-***
-## Les 14 et 17/10 
-
-=== "CONTENU DE SÉANCE"
-
-    - **Faire** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-    - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;    
-
-
-***
-## Les 12 et 13/10 
-
-=== "CONTENU DE SÉANCE"
-
-    - [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;    
-
-
-***
-## Le 06/10
-
-=== "CONTENU DE SÉANCE"
-
-    - **Finir** l'application des communications réseaux du [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
-    - **Commencer** l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
-    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-
-
-***
-## Le 05/10
-
-=== "CONTENU DE SÉANCE"
-
-    - Info du [bac](./bac_SI) ;
-    - Correction des exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
-    - Vérification de l'exactitude dans la prise de notes pour l'étude des actions mécaniques du système [béquille de moto](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-
- -->
-***
-
-## Le 28/11
-
-=== "CONTENU DE SÉANCE"
-
-    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ;
+    - [Etudes du comportement dynamique d'un solide en rotation](./AM/dynamique_rotation.md){target=_blank} ; 
     
 
 === "TRAVAIL À FAIRE"
@@ -369,7 +222,7 @@
 
 ***
 
-## Le 28/11
+## Les 28 et 30/11
 
 === "CONTENU DE SÉANCE"
 
