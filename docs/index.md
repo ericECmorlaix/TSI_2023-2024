@@ -202,7 +202,7 @@
 
 === "TRAVAIL À FAIRE"
     
-    - ==**Se préparer** pour une évaluation de dynamique en translation et en rotation pour le 19/12== ;    
+    - ==**Se préparer** pour une évaluation d'énergétique et de dynamique en translation et en rotation pour le 20/12== ;    
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
     - **Reprendre** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
         - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
