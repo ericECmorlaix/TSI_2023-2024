@@ -192,13 +192,15 @@
     - Poursuivre le TAF en autonomie ;
  -->
 ***
-## Les 12 et 14/12
+## Les 12, 14 et 19/12
 
 === "CONTENU DE SÉANCE"
 
     - [Etudes du comportement dynamique d'un solide en rotation et complément énergétique](./AM/dynamique_rotation.md){target=_blank} => ==Correction de l'application au Treuil== ;
            
-    - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ; 
+    - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
 
 === "TRAVAIL À FAIRE"
     
