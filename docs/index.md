@@ -182,6 +182,21 @@
 
  -->
 ***
+## Le 23/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des évaluations d'étude du comportement dynamique du [MELODY](./SE/MELODY-Dynamique.pdf){target="_blank"} et du [X-track](./SE/X-track_Dynamique.pdf){target="_blank"} (cf [X-track_DR-DT](./SE/X-track_DR-DT.pdf){target="_blank"}) ;
+
+    - Eléments de correction des exercices concernant les [Capteurs et les Codeurs de position](./CI/Corrections) ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) en préparant un document numérique de synthèse visible dans votre classeur sur GitHub ;
+    - **Finir** la programmation des objets connectés avec la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} :
+        - ==**notez, transmettez-moi et conservez** votre code personnel pour chaque parcours pour y retourner d'une fois sur l'autre== ;
+        - **conserver** progressivement une trace de vos scripts... 
+***
 ## Du 09 au 23/01
 
 === "CONTENU DE SÉANCE"
