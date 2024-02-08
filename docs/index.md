@@ -207,7 +207,8 @@
       <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     - **Faire** les questions non traitées du sujet [MELODY](./SE/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 puis vérifier vos réponses avec [cette proposition de correction](./SE/MELODY-corrige.pdf){target="_blank"} ;
-
+    
+    - **Faire** les sujets [EFOIL](./SE/Efoil-2022.pdf){target="_blank"} et [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
 
 ***
 ## Le 23/01
