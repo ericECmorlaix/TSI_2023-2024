@@ -188,7 +188,7 @@
     - Régulation et asservivement :
         - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} ;
         - parallèlement, **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
-        - faire les [Exercices](./RA/Exercices.pdf){target="_blank"} ;
+        - **faire** les [Exercices 1 et 2](./RA/Exercices.pdf){target="_blank"} ;
 
     - Application aux questions 7 et 8 du sujet [Xtrack](./SE/Camera_Mobile.pdf){target="_blank"} ;
     
@@ -196,6 +196,7 @@
         - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
         - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
         - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;
+    - **faire** l'[Exercice du ROBOVOLC](./RA/Exercice_3-ROBOVOLC.pdf){target="_blank"} ;
 
 
 === "TRAVAIL À FAIRE"
