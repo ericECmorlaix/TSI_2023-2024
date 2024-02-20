@@ -182,6 +182,12 @@
 
  -->
 ***
+## Le 20/02
+
+=== "CONTENU DE SÉANCE" 
+
+    - Correction [Bac Blanc Ecodark](./SE/23-24_SI_BB1_ecodark.pdf){target="_blank"} ;
+***
 ## Du 30/01
 
 === "CONTENU DE SÉANCE" 
