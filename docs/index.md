@@ -182,11 +182,24 @@
 
  -->
 ***
+## Le 19/03
+
+=== "CONTENU DE SÉANCE" 
+
+    - Faire les sujets du concours Geipi Polytech [2023](./SE/geipi-polytech_2023.pdf){target="_blank"}, [2022](./SE/geipi-polytech_2022.pdf){target="_blank"}, [2021](./SE/geipi-polytech_2021.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** le sujet [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
+
+***
 ## Le 20/02
 
 === "CONTENU DE SÉANCE" 
 
     - Correction [Bac Blanc Ecodark](./SE/23-24_SI_BB1_ecodark.pdf){target="_blank"} ;
+
+
 ***
 ## Du 30/01
 
