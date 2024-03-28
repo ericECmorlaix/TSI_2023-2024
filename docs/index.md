@@ -182,6 +182,17 @@
 
  -->
 ***
+## Le 29/03
+
+=== "CONTENU DE SÉANCE" 
+
+    - Faire le sujet de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** le sujet [ROBOT BARMAN](./SE/Robot_Barman-2022.pdf){target="_blank"} ;
+
+***
 ## Le 19/03
 
 === "CONTENU DE SÉANCE" 
