@@ -181,6 +181,19 @@
 
 
  -->
+
+***
+## Le 9/04
+
+=== "CONTENU DE SÉANCE" 
+
+    - **Faire** le [TP_Reseau_DMX](./DMX/TP_Reseau_DMX.pdf){target="_blank"} avec l'aide des documents [Document_ressource-Le_DMX_512](./DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"}, [Documentation_iMove_5S_FR](./DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} et [Notice_Imove](./DMX/Notice_Imove.pdf){target="_blank"} ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** le sujet de la [Lyre Imove 5S](./SE/LyreImove5S.pdf){target="_blank"} ;
+
 ***
 ## Le 29/03
 
