@@ -181,6 +181,18 @@
 
 
  -->
+***
+
+## Le 28/05 
+
+=== "CONTENU DE SÉANCE"
+    
+    - Correction du [BB2](./SE/BB2.pdf){target=_blank} ;
+    
+  
+=== "TRAVAIL À FAIRE"
+
+   - **S'entrainer** pour l'[épreuve écrite](https://toutmonexam.fr/annee.php){target=_blank}...
 
 ***
 ## Le 9/04
